@@ -1,10 +1,9 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Leonardo Taroco"
+title: "Blog do Leo"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -13,6 +12,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  leo:
+    name: Leo
+    display_name: Leonardo
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: leonardo_taroco@hotmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/tarocoleo
+    description: ":D"
   sal:
     name: Sal
     display_name: Sal
