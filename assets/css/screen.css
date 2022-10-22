@@ -208,6 +208,10 @@ section.recent-posts {
     font-size: 0.95rem;
 }
 
+.sitetitle {
+    font-family: Righteous;
+}
+
 .toc ul {
     list-style: decimal;
     font-weight: 400;
@@ -302,10 +306,6 @@ span.post-read-more a:hover {
 .mediumnavigation .navbar-brand img {
     max-height: 30px;
     margin-right: 5px;
-}
-
-.mainheading h1.sitetitle {
-    font-family: Righteous;
 }
 
 .mainheading h1.posttitle {
