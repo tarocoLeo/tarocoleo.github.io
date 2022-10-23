@@ -1,34 +1,44 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Oi, eu sou o Leo! 🖐😁</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>Tenho 22 anos e sou de Marília, interior de SP. Estou no 6º período de Ciência da Computação, na <a target="_blank" href="https://www.univem.edu.br/">UNIVEM</a> - inclusive, foi ao entrar na faculdade que conheci o universo da programação, lá em 2020, quando eu tinha 20 anos. De lá pra cá, sempre sonhei em me tornar um desenvolvedor e, em fevereiro desse ano, consegui minha primeira oportunidade na área como Estagiário de Desenvolvimento de Software, onde atuo até o momento! 👨‍💻🥳</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Atualmente, tenho estudado e aprimorado meus conhecimentos em: Ruby on Rails, TDD, Vue.js e na tríade front-end (HTML, CSS & JavaScript). Também venho trabalhando bastante os conceitos de CI/CD (pipeline) usando Azure Devops, Scrum e Kanban para desenvolvimento ágil e Git para controle de versão.</p>
 
-<h4>Questions or bug reports?</h4>
+<p>Criei esse blog com o intuito de documentar e compartilhar um pouquinho das minhas experiências e aprendizados na área. Espero que seja útil de alguma forma! 🤗</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>👇 Você também pode me encontrar nas redes abaixo! 😃</p>
+
+<p>
+  <a target="_blank" href="https://github.com/tarocoLeo">
+    <img src="/assets/images/github.png" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/tarocoLeo/">
+    <img src="/assets/images/linkedin.png" />
+  </a>
+  <a target="_blank" href="https://instagram.com/leootaroco">
+    <img src="/assets/images/instagram.png" />
+  </a>
+  <a target="_blank" href="https://twitter.com/tarocoleo">
+    <img src="/assets/images/twitter.png" />
+  </a>
+</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<img src="/assets/images/eu.jpg" alt="Leonardo Taroco" tittle="Leonardo Taroco">
 
 </div>
 </div>
