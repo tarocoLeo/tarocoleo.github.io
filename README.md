@@ -1,23 +1,11 @@
-# Mediumish - Jekyll Theme
+# Blog pessoal
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+Oi! Esse é o meu __[blog pessoal](https://tarocoleo.github.io/)__.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
-
+Desenvolvi esse blog utilizando o tema __[Mediumish for Jekyll](https://www.wowthemes.net/mediumish-free-jekyll-template/)__.
 
 ### Copyright
 
 Copyright (C) 2019 Sal, https://www.wowthemes.net
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+**Mediumish for Jekyll** foi projetado e desenvolvido pelo [Sal](https://www.wowthemes.net) e é *gratuito* sob licença do MIT. 
