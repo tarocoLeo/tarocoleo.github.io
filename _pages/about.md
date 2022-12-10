@@ -10,7 +10,7 @@ comments: false
 
 <p>Oi, eu sou o Leo! 🖐😁</p>
 
-<p>Tenho 22 anos e sou de Marília, interior de SP. Estou no 6º período de Ciência da Computação, na <a target="_blank" href="https://www.univem.edu.br/">UNIVEM</a> - inclusive, foi ao entrar na faculdade que conheci o universo da programação, lá em 2020, quando eu tinha 20 anos. De lá pra cá, sempre sonhei em me tornar um desenvolvedor e, em fevereiro desse ano, consegui minha primeira oportunidade na área como Estagiário de Desenvolvimento de Software, onde atuo até o momento! 👨‍💻🥳</p>
+<p>Tenho 23 anos e sou de Marília, interior de SP. Estou no 7º período de Ciência da Computação, na <a target="_blank" href="https://www.univem.edu.br/">UNIVEM</a> - inclusive, foi ao entrar na faculdade que conheci o universo da programação, lá em 2020, quando eu tinha 20 anos. De lá pra cá, sempre sonhei em me tornar um desenvolvedor e, em fevereiro desse ano, consegui minha primeira oportunidade na área como Estagiário de Desenvolvimento de Software, onde atuo até o momento! 👨‍💻🥳</p>
 
 <p>Atualmente, tenho estudado e aprimorado meus conhecimentos em: Ruby on Rails, TDD, Vue.js e na tríade front-end (HTML, CSS & JavaScript). Também venho trabalhando bastante os conceitos de CI/CD (pipeline) usando Azure Devops, Docker para conteinerização, Scrum e Kanban para desenvolvimento ágil e Git para controle de versão.</p>
 
