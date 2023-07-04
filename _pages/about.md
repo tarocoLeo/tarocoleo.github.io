@@ -10,10 +10,11 @@ comments: false
 
 <p>Oi, eu sou o Leo! 🖐😁</p>
 
-<p>Tenho 23 anos e sou de Marília, interior de SP. Estou no 7º período de Ciência da Computação, na <a target="_blank" href="https://www.univem.edu.br/">UNIVEM</a> - inclusive, foi ao entrar na faculdade que tive o meu primeiro contato com a programação, lá em 2020, quando eu tinha 20 anos. Em fevereiro de 2022, consegui minha primeira oportunidade na área como Estagiário de Desenvolvimento de Software e, 1 ano depois, fui efetivado e sigo atuando como Desenvolvedor Júnior até o momento! 👨‍💻🥳
-</p>
+<p>Programador com pouco mais de 1 ano de experiência, atualmente trabalho com Ruby on Rails na posição de Dev Jr. Tenho 23 anos, sou de Marília, interior de SP e estou no último semestre de Ciência da Computação na <a target="_blank" href="https://www.univem.edu.br/">UNIVEM</a>. 😎📚</p>
 
-<p>Possuo experiência com TDD, Ruby on Rails, Vue.js e Docker. Também venho trabalhando bastante os conceitos de CI/CD usando Azure DevOps e desenvolvimento ágil com Scrum e Kanban.</p>
+<p>Pai de 5 gatos laranjinhas, gosto de brincar em jogos online e costumo não recusar uma gelada pós-expediente nas sextas-feiras — seguimos o lema: <i>API by day, IPA by night</i>! 🍻🎮🐈</p>
+
+<p>Além do Rails, possuo experiência com TDD, Vue.js e Docker. Tenho trabalhado também com os conceitos de CI/CD usando Azure DevOps e desenvolvimento ágil com Scrum e Kanban. 👨‍💻</p>
 
 <p>Criei esse blog com o intuito de documentar e compartilhar um pouquinho das minhas experiências e aprendizados na área. Espero que seja útil de alguma forma! 🤗</p>
 
